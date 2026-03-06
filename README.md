@@ -56,7 +56,7 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/multilingual_qna_immverseai.git
+git clone https://github.com/dkewat25/Multilingual_QnA_ImmverseAI.git
 
 2. Navigate to the project folder
 
